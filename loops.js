@@ -18,6 +18,6 @@ function whileLoop(n) {
 function doWhileLoop(n) {
   do {
     console.log('I run once regardless.');
-    n -= 1;
+    n--;
   } while (n > 0);
 }
