@@ -17,7 +17,7 @@ function whileLoop(n) {
 
 function doWhileLoop(num) {
   do {
-    n--;
+    num--;
     console.log('I run once regardless.');
-  } while (n !== 0)
+  } while (num !== 0)
 }
